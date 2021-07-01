@@ -38,11 +38,6 @@ Function Get-LocalGroupMembership {
             
 .Link
     N/A
-        
-.Notes
-    NAME:      Get-LocalGroupMembership
-    AUTHOR:    Francois-Xavier Cat
-    WEBSITE:   www.LazyWinAdmin.com
 #>
 
  
